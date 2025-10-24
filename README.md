@@ -7,12 +7,12 @@ Frontend Mentor challenges help improve your front-end skills by building realis
 
 Thanks for checking out this front-end coding challenge.
 
-#### ![Languages](https://img.shields.io/github/languages/count/zeynab-jalalian/) :
+#### ![Languages](https://img.shields.io/github/languages/count/zeynab-jalalian/Recipe-Page) :
  - ![HTML](https://img.shields.io/badge/Html-orange)
  - ![CSS](https://img.shields.io/badge/Css-blue)
 
       ---
- you can see my project in [this demo](https://zeynab-jalalian.github.io//)
+ you can see my project in [this demo](https://zeynab-jalalian.github.io/Recipe-Page/)
   ___
 
 
