@@ -51,6 +51,9 @@ body {
   margin-top: 25px;
   padding: 15px 30px;
 }
+.time .time-list div{
+    display: flex;
+}
 .time h3 {
   color: hsl(332, 51%, 32%);
   margin-bottom: 15px;
@@ -73,7 +76,7 @@ ul li span {
   white-space: nowrap;
 }
 
-ul li i {
+ i {
   margin-right: 20px;
   font-size: 20px;
 }
@@ -93,14 +96,14 @@ ul li i {
   color: hsl(14, 45%, 36%);
   margin: 20px auto;
 }
-.Instructions span {
+.Instructions span ,.time-list span{
   color: hsl(24, 5%, 18%);
   font-weight: 700;
   margin-right: 2px;
   white-space: nowrap;
 }
 
-.Instructions p {
+.Instructions p , .time-list p{
   color: hsl(30, 10%, 34%);
   line-height: 21px;
   margin: 0 0 20px 0;
