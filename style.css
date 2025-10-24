@@ -65,10 +65,10 @@ body {
   color: hsl(30, 10%, 34%);
   margin: 0;
 }
-.time h3 {
+.time h2 {
   color: hsl(332, 51%, 32%);
   margin-bottom: 15px;
-  font-size: 20px;
+  font-size: 18px;
 }
 ul {
   width: 100%;
