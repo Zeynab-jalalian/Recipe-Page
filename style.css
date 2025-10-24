@@ -49,28 +49,42 @@ body {
   margin-top: 25px;
   padding: 15px 30px;
 }
-.time h3{
-    color: hsl(332, 51%, 32%);
-    margin-bottom: 15px;
+.time h3 {
+  color: hsl(332, 51%, 32%);
+  margin-bottom: 15px;
 }
-.time ul {
+ul {
   width: 100%;
 }
-.time ul li {
+ul li {
   list-style: none;
-  margin: 10px auto;
+  margin: 5px auto;
   color: hsl(30, 10%, 34%);
   display: flex;
   align-items: center;
 }
 
-.time ul li span{
-    color: hsl(24, 5%, 18%);
-    font-weight: 700;
-    margin-right: 2px;
+ul li span {
+  color: hsl(24, 5%, 18%);
+  font-weight: 700;
+  margin-right: 2px;
 }
 
-.time ul li i{
-    margin-right: 20px;
-    font-size: 20px;
+ul li i {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.ingredients {
+  margin-top: 25px;
+}
+
+.ingredients h2{
+    color: hsl(14, 45%, 36%);
+    margin-bottom: 15px;
+}
+
+hr{
+    border: 1px solid #eeeeee;
+    margin-top: 20px;
 }
